@@ -23,3 +23,12 @@ python search.py --max-base 20 --max-exponent 5 --certificate result.json
 
 The certificate records the bounds, moduli, result count, and any exact
 solutions found.
+
+Certificates are checked independently with:
+
+```text
+python -m beal_lab.verify certificates/baseline-20-5.json
+```
+
+The verifier deliberately recomputes the bounded search without importing the
+modular sieve, so a bug in the primary search is less likely to survive.

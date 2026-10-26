@@ -38,6 +38,9 @@ pairwise-coprime solution with all three exponents greater than two.
 8. **Produce durable research artifacts.** Keep the code, datasets, methods,
    and conclusions reproducible by people who are not part of this project.
 
+The current implementation includes an exact bounded search, modular residue
+filtering, an independent certificate verifier, and automated CI checks.
+
 ## What counts as a counterexample?
 
 An alleged counterexample must include:
