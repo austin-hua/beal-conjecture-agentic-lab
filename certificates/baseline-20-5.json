@@ -1,0 +1,18 @@
+{
+  "max_base": 20,
+  "max_exponent": 5,
+  "moduli": [
+    3,
+    5,
+    7,
+    11,
+    13,
+    17,
+    19,
+    23,
+    29,
+    31
+  ],
+  "primitive_solution_count": 0,
+  "solutions": []
+}

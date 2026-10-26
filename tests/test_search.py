@@ -18,3 +18,12 @@ def test_search_rejects_invalid_bounds() -> None:
 
 def test_small_search_has_no_primitive_solution() -> None:
     assert search(max_base=20, max_exponent=5) == []
+
+
+def test_search_rejects_invalid_modulus() -> None:
+    try:
+        search(max_base=5, max_exponent=3, moduli=(1,))
+    except ValueError as error:
+        assert "moduli" in str(error)
+    else:
+        raise AssertionError("expected ValueError")
