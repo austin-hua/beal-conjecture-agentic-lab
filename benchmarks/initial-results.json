@@ -1,0 +1,26 @@
+[
+  {
+    "max_base": 20,
+    "max_exponent": 5,
+    "seconds": 0.004437499970663339,
+    "primitive_solution_count": 0
+  },
+  {
+    "max_base": 50,
+    "max_exponent": 5,
+    "seconds": 0.02411880000727251,
+    "primitive_solution_count": 0
+  },
+  {
+    "max_base": 100,
+    "max_exponent": 5,
+    "seconds": 0.09890370001085103,
+    "primitive_solution_count": 0
+  },
+  {
+    "max_base": 250,
+    "max_exponent": 5,
+    "seconds": 0.6408937999513,
+    "primitive_solution_count": 0
+  }
+]
