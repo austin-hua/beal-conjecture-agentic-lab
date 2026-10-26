@@ -1,7 +1,7 @@
-# Beal Conjecture Lab
+# Beal Conjecture Agentic Lab
 
-An open-source attempt to **break—or prove—Beal’s Conjecture** with
-reproducible computation, rigorous mathematics, and agentic AI.
+An open-source agentic-AI research effort to **break—or prove—Beal’s
+Conjecture** with reproducible computation and rigorous mathematics.
 
 > A search is not a proof. A pattern is not a theorem. Every result in this
 > repository should be independently checkable.
