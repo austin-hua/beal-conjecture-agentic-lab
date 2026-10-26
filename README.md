@@ -1,4 +1,4 @@
-# Beal Breakers
+# Beal Conjecture Lab
 
 An open-source attempt to **break—or prove—Beal’s Conjecture** with
 reproducible computation, rigorous mathematics, and agentic AI.
